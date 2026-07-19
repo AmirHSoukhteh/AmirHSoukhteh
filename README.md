@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <!-- Clean, minimal terminal greeting -->
 <picture>
+  <h2>Hi there 👋</h2>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=6C63FF&background=0D1117&center=true&vCenter=true&width=550&height=60&lines=%3E+Amir+Hossein+Soukhteh;%3E+Python+Developer;%3E+AI+%26+Data+Enthusiastic">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=4A42B3&background=FAFBFC&center=true&vCenter=true&width=550&height=60&lines=%3E+Amir+Hossein+Soukhteh;%3E+Python+Developer;%3E+AI+%26+Data+Enthusiastic">
   <img alt="terminal greeting" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=4A42B3&background=FAFBFC&center=true&vCenter=true&width=550&height=60&lines=%3E+Amir+Hossein+Soukhteh;%3E+Python+Developer;%3E+AI+%26+Data+Enthusiastic">
@@ -28,15 +29,15 @@ Here are some ideas to get you started:
 
 <!-- Clean, modern navigation buttons -->
 <a href="#python-projects">
-  <img src="https://img.shields.io/badge/_Python_Projects-48CAE4?style=for-the-badge&logo=python&logoColor=white&color=48CAE4" alt="Python Projects">
+  <img src="https://img.shields.io/badge/_Python_Projects-48CAE4?style=for-the-badge&logo=python&logoColor=white&color=D46D25" alt="Python Projects">
 </a>
 &nbsp;
 <a href="#data-projects">
-  <img src="https://img.shields.io/badge/📊_Data_Projects-00B4D8?style=for-the-badge&logo=data&logoColor=white&color=00B4D8" alt="Data Projects">
+  <img src="https://img.shields.io/badge/📊_Data_Projects-00B4D8?style=for-the-badge&logo=data&logoColor=white&color=FDC086" alt="Data Projects">
 </a>
 &nbsp;
 <a href="#ai-projects">
-  <img src="https://img.shields.io/badge/🤖_AI_Projects-6C63FF?style=for-the-badge&logo=ai&logoColor=white&color=6C63FF" alt="AI Projects">
+  <img src="https://img.shields.io/badge/🤖_AI_Projects-6C63FF?style=for-the-badge&logo=ai&logoColor=white&color=FFF6A1" alt="AI Projects">
 </a>
 
 </div>
@@ -49,7 +50,14 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2><a name="python-projects"></a> 🐍 Python Projects</h2>
-  <img src="https://img.shields.io/badge/-───────────-48CAE4?style=flat-square&labelColor=48CAE4&color=48CAE4" width="100%" height="2">
+  <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/-django?logo=django&logoColor=black">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="25" height="25">
+    <img src="https://img.shields.io/badge/-fastapi?logo=fastapi&color=white">
+    <img src="https://img.shields.io/badge/-docker?logo=pydantic&logoColor=purple&color=white">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="25" height="25"/>
+  </div>
+  <img src="https://img.shields.io/badge/-───────────-48CAE4?style=flat-square&labelColor=D46D25&color=D46D25" width="100%" height="2">
 </div>
 
 <br>
@@ -106,7 +114,12 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2><a name="data-projects"></a> 📊 Data Projects</h2>
-  <img src="https://img.shields.io/badge/-───────────-00B4D8?style=flat-square&labelColor=00B4D8&color=00B4D8" width="100%" height="2">
+  <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/-numpy?logo=numpy&logoColor=blue&color=white">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="20" height="20">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="20" height="20"/>
+  </div>
+  <img src="https://img.shields.io/badge/-───────────-00B4D8?style=flat-square&labelColor=FDC086&color=FDC086" width="100%" height="2">
 </div>
 
 <br>
@@ -163,7 +176,12 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2><a name="ai-projects"></a> 🤖 AI Projects</h2>
-  <img src="https://img.shields.io/badge/-───────────-6C63FF?style=flat-square&labelColor=6C63FF&color=6C63FF" width="100%" height="2">
+  <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/-django?logo=django&logoColor=black">
+    <img src="https://img.shields.io/badge/-fastapi?logo=fastapi&color=white">
+    <img src="https://img.shields.io/badge/-docker?logo=pydantic&logoColor=purple&color=white">
+  </div>
+  <img src="https://img.shields.io/badge/-───────────-6C63FF?style=flat-square&labelColor=FFF6A1&color=FFF6A1" width="100%" height="2">
 </div>
 
 <br>
