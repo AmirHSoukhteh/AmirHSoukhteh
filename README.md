@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <!-- Clean, modern navigation buttons -->
 <a href="#python-projects">
-  <img src="https://img.shields.io/badge/Python_Projects-48CAE4?style=for-the-badge&logo=python&logoColor=white&color=48CAE4" alt="Python Projects">
+  <img src="https://img.shields.io/badge/_Python_Projects-48CAE4?style=for-the-badge&logo=python&logoColor=white&color=48CAE4" alt="Python Projects">
 </a>
 &nbsp;
 <a href="#data-projects">
@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 ---
 
 <!-- ==================== PYTHON PROJECTS SECTION ==================== -->
-## <a name="python-projects"></a> 🐍 Python Projects
 
 <div align="center">
+  <h2><a name="python-projects"></a> 🐍 Python Projects</h2>
   <img src="https://img.shields.io/badge/-───────────-48CAE4?style=flat-square&labelColor=48CAE4&color=48CAE4" width="100%" height="2">
 </div>
 
@@ -103,9 +103,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- ==================== DATA PROJECTS SECTION ==================== -->
-## <a name="data-projects"></a> 📊 Data Projects
 
 <div align="center">
+  <h2><a name="data-projects"></a> 📊 Data Projects</h2>
   <img src="https://img.shields.io/badge/-───────────-00B4D8?style=flat-square&labelColor=00B4D8&color=00B4D8" width="100%" height="2">
 </div>
 
@@ -160,9 +160,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- ==================== AI PROJECTS SECTION ==================== -->
-## <a name="ai-projects"></a> 🤖 AI Projects
 
 <div align="center">
+  <h2><a name="ai-projects"></a> 🤖 AI Projects</h2>
   <img src="https://img.shields.io/badge/-───────────-6C63FF?style=flat-square&labelColor=6C63FF&color=6C63FF" width="100%" height="2">
 </div>
 
