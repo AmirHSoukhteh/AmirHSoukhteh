@@ -17,14 +17,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<!-- Clean, minimal terminal greeting -->
-<picture>
-  <h2>Hi there 👋</h2>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=6C63FF&background=0D1117&center=true&vCenter=true&width=550&height=60&lines=%3E+Amir+Hossein+Soukhteh;%3E+Python+Developer;%3E+AI+%26+Data+Enthusiastic">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=4A42B3&background=FAFBFC&center=true&vCenter=true&width=550&height=60&lines=%3E+Amir+Hossein+Soukhteh;%3E+Python+Developer;%3E+AI+%26+Data+Enthusiastic">
-  <img alt="terminal greeting" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=4A42B3&background=FAFBFC&center=true&vCenter=true&width=550&height=60&lines=%3E+Amir+Hossein+Soukhteh;%3E+Python+Developer;%3E+AI+%26+Data+Enthusiastic">
-</picture>
-
+<h2>Hi there 👋, I'm Amir</h2>
+<p><b>Python Developer and Data Enthusiastic</b></p>
 <br><br>
 
 <!-- Clean, modern navigation buttons -->
@@ -237,7 +231,6 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- ==================== PROFESSIONAL SUMMARY ==================== -->
-### 🌟 Professional Summary
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-0D1117?style=for-the-badge&labelColor=6C63FF&color=0D1117">
@@ -250,10 +243,9 @@ Here are some ideas to get you started:
 <!-- Connect section -->
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yourusername)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-hossein-soukhteh)
+[![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AHSoukhteh)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:a.h.soukhteh@gmail.com)
 
 <br>
 
@@ -261,7 +253,5 @@ Here are some ideas to get you started:
 ![Visitors](https://komarev.com/ghpvc/?username=AmirHSoukhteh&color=6C63FF&style=flat-square&label=👀%20Profile%20Views)
 
 <br>
-
-<sub>✨ Crafted with ❤️ and Python</sub>
 
 </div>
