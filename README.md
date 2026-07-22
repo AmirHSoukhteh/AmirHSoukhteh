@@ -30,9 +30,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/📊_Data_Projects-00B4D8?style=for-the-badge&logo=data&logoColor=white&color=FDC086" alt="Data Projects">
 </a>
 &nbsp;
-<a href="#ai-projects">
-  <img src="https://img.shields.io/badge/🤖_AI_Projects-6C63FF?style=for-the-badge&logo=ai&logoColor=white&color=FFF6A1" alt="AI Projects">
-</a>
 
 </div>
 
@@ -168,6 +165,7 @@ Here are some ideas to get you started:
 
 <!-- ==================== AI PROJECTS SECTION ==================== -->
 
+<!--
 <div align="center">
   <h2><a name="ai-projects"></a> 🤖 AI Projects</h2>
   <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
@@ -180,7 +178,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<!--
+
 ### 🧠 Neural Text Summarizer
 **AI-powered document summarization using transformer architectures**
 
