@@ -19,8 +19,25 @@ Here are some ideas to get you started:
 
 <h2>Hi there 👋, I'm Amir</h2>
 <p><b>Python Developer and Data Enthusiastic</b></p>
-<br><br>
+<br>
 
+<div align="left">
+<p>
+  Amir Soukhteh is a Mathematics graduate with a strong passion for software development, data, and artificial intelligence. Fascinated by the intersection of mathematics and computer science, he continuously expands his knowledge through hands-on projects, open-source contributions, and continuous learning.
+</p>
+
+<p>
+  With more than three years of programming experience, Amir has developed projects ranging from backend applications to data analysis and machine learning. His portfolio reflects both personal initiatives and projects completed through academic studies and professional courses.
+</p>
+
+<p>
+  Amir enjoys combining ideas from different disciplines to solve real-world problems. He is currently strengthening his backend development skills with Python technologies such as FastAPI while deepening his expertise in data analysis, data engineering, and machine learning. His long-term goal is grow into a highly skilled Data Scientist.
+</p>
+
+
+</div>
+ 
+<br><br>
 <!-- Clean, modern navigation buttons -->
 <a href="#python-projects">
   <img src="https://img.shields.io/badge/_Python_Projects-48CAE4?style=for-the-badge&logo=python&logoColor=white&color=D46D25" alt="Python Projects">
