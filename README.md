@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </div>
  
 <br><br>
-<!-- Clean, modern navigation buttons -->
+<!-- Clean, modern navigation buttons 
 <a href="#python-projects">
   <img src="https://img.shields.io/badge/_Python_Projects-48CAE4?style=for-the-badge&logo=python&logoColor=white&color=D46D25" alt="Python Projects">
 </a>
@@ -47,6 +47,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/📊_Data_Projects-00B4D8?style=for-the-badge&logo=data&logoColor=white&color=FDC086" alt="Data Projects">
 </a>
 &nbsp;
+-->
 
 </div>
 
@@ -57,7 +58,7 @@ Here are some ideas to get you started:
 <!-- ==================== PYTHON PROJECTS SECTION ==================== -->
 
 <div align="center">
-  <h2><a name="python-projects"></a> 🐍 Python Projects</h2>
+  <h2><a name="python-projects"></a>Python Projects</h2>
   <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/-django?logo=django&logoColor=black">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="25" height="25">
@@ -121,7 +122,7 @@ Here are some ideas to get you started:
 <!-- ==================== DATA PROJECTS SECTION ==================== -->
 
 <div align="center">
-  <h2><a name="data-projects"></a> 📊 Data Projects</h2>
+  <h2><a name="data-projects"></a>Data Projects</h2>
   <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/-numpy?logo=numpy&logoColor=blue&color=white">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="20" height="20">
@@ -244,14 +245,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-
-<!-- ==================== PROFESSIONAL SUMMARY ==================== -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-0D1117?style=for-the-badge&labelColor=6C63FF&color=0D1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-FAFBFC?style=for-the-badge&labelColor=4A42B3&color=FAFBFC">
-  <img alt="STATUS: OPEN TO COLLABORATE" src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-FAFBFC?style=for-the-badge&labelColor=4A42B3&color=FAFBFC">
-</picture>
 
 <br><br>
 
