@@ -60,11 +60,13 @@ Here are some ideas to get you started:
 <div align="center">
   <h2><a name="python-projects"></a>Python Projects</h2>
   <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/-django?logo=django&logoColor=black">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="25" height="25">
-    <img src="https://img.shields.io/badge/-fastapi?logo=fastapi&color=white">
-    <img src="https://img.shields.io/badge/-docker?logo=pydantic&logoColor=purple&color=white">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="25" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="25" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="25" height="25"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="25" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="25" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="25" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="25" height="25"/>
   </div>
   <img src="https://img.shields.io/badge/-───────────-48CAE4?style=flat-square&labelColor=D46D25&color=D46D25" width="100%" height="2">
 </div>
@@ -124,7 +126,9 @@ Here are some ideas to get you started:
 <div align="center">
   <h2><a name="data-projects"></a>Data Projects</h2>
   <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/-numpy?logo=numpy&logoColor=blue&color=white">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="25" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="25" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="20" height="20"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="20" height="20">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="20" height="20"/>
   </div>
