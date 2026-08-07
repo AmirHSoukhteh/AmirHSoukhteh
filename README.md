@@ -54,83 +54,19 @@ Here are some ideas to get you started:
 <br>
 
 ---
-
-<!-- ==================== PYTHON PROJECTS SECTION ==================== -->
-
-<div align="center">
-  <h2><a name="python-projects"></a>Python Projects</h2>
-  <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="25" height="25"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="25" height="25"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="25" height="25"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="25" height="25"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="25" height="25"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="25" height="25"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="25" height="25"/>
-  </div>
-  <img src="https://img.shields.io/badge/-───────────-48CAE4?style=flat-square&labelColor=D46D25&color=D46D25" width="100%" height="2">
-</div>
-
-<br>
-
-<!--
-### ⚡ Task Automation Suite
-**Cross-platform automation tool for repetitive workflows**
-
-*Saves 15+ hours per month per user through intelligent task scheduling and execution.*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Click](https://img.shields.io/badge/Click-4F5B93?style=flat-square)
-![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-5C3EE8?style=flat-square)
-![Loguru](https://img.shields.io/badge/Loguru-5B7C9D?style=flat-square)
-
-[→ View Repository](#)
-
-<br>
-
-### 📦 Package Manager CLI
-**Lightweight package manager for Python projects**
-
-*Streamlines dependency management with intelligent version resolution.*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white)
-![Typer](https://img.shields.io/badge/Typer-00B4D8?style=flat-square)
-![Rich](https://img.shields.io/badge/Rich-FF6B6B?style=flat-square)
-
-[→ View Repository](#)
-
-<br>
-
-### 🔍 Web Scraping Framework
-**Modular web scraping framework with proxy rotation**
-
-*Scrapes 100K+ pages daily with automatic retry and rate limiting.*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A5FA?style=flat-square&logo=scrapy&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-[→ View Repository](#)
-
-<br>
-
-<div align="right">
-  <a href="#top">↑ back to top</a>
-</div>
--->
-
 <!-- ==================== DATA PROJECTS SECTION ==================== -->
 
 <div align="center">
   <h2><a name="data-projects"></a>Data Projects</h2>
   <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="25" height="25"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="25" height="25"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="20" height="20"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="20" height="20">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="20" height="20"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="70" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="70" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" width="70" height="40" alt="Power BI">
+    <img width="40" height="40" alt="Tableau" src="https://github.com/user-attachments/assets/671249d2-335c-4acf-9998-07dd2c3bf0e2" />
   </div>
   <img src="https://img.shields.io/badge/-───────────-00B4D8?style=flat-square&labelColor=FDC086&color=FDC086" width="100%" height="2">
 </div>
@@ -185,69 +121,6 @@ Here are some ideas to get you started:
 </div>
 -->
 
-<!-- ==================== AI PROJECTS SECTION ==================== -->
-
-<!--
-<div align="center">
-  <h2><a name="ai-projects"></a> 🤖 AI Projects</h2>
-  <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/-django?logo=django&logoColor=black">
-    <img src="https://img.shields.io/badge/-fastapi?logo=fastapi&color=white">
-    <img src="https://img.shields.io/badge/-docker?logo=pydantic&logoColor=purple&color=white">
-  </div>
-  <img src="https://img.shields.io/badge/-───────────-6C63FF?style=flat-square&labelColor=FFF6A1&color=FFF6A1" width="100%" height="2">
-</div>
-
-<br>
-
-
-### 🧠 Neural Text Summarizer
-**AI-powered document summarization using transformer architectures**
-
-*Automatically condenses long documents into key insights, saving 3+ hours per week for research teams.*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=flat-square&logo=Hugging%20Face&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-[→ View Repository](#)
-
-<br>
-
-### 🎯 Computer Vision Pipeline
-**Real-time object detection system for quality control**
-
-*Deployed in manufacturing environment with 98.7% accuracy, reducing defect detection time by 70%.*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-[→ View Repository](#)
-
-<br>
-
-### 🤗 Sentiment Analysis API
-**Multilingual sentiment classification service**
-
-*Supports 12 languages with 85% average accuracy, serving 10K+ requests daily.*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-[→ View Repository](#)
-
-<br>
-
-<div align="right">
-  <a href="#top">↑ back to top</a>
-</div>
--->
-
 <div align="center">
 
 <br><br>
@@ -263,6 +136,26 @@ Here are some ideas to get you started:
 
 <!-- Visitor counter -->
 ![Visitors](https://komarev.com/ghpvc/?username=AmirHSoukhteh&color=6C63FF&style=flat-square&label=👀%20Profile%20Views)
+
+<br>
+
+<!-- ==================== Language and Tools ==================== -->
+
+<div align="left">
+  <h3><a name="python-projects"></a>Language and Tools</h3>
+  <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="25" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="25" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="25" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="25" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="25" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="25" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="25" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="30" height="25"/>
+  </div>
+  <img src="https://img.shields.io/badge/-───────────-48CAE4?style=flat-square&labelColor=D46D25&color=D46D25" width="100%" height="2">
+</div>
 
 <br>
 
