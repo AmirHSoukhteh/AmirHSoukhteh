@@ -35,22 +35,6 @@ Here are some ideas to get you started:
 </p>
 
 
-</div>
- 
-<br><br>
-<!-- Clean, modern navigation buttons 
-<a href="#python-projects">
-  <img src="https://img.shields.io/badge/_Python_Projects-48CAE4?style=for-the-badge&logo=python&logoColor=white&color=D46D25" alt="Python Projects">
-</a>
-&nbsp;
-<a href="#data-projects">
-  <img src="https://img.shields.io/badge/📊_Data_Projects-00B4D8?style=for-the-badge&logo=data&logoColor=white&color=FDC086" alt="Data Projects">
-</a>
-&nbsp;
--->
-
-</div>
-
 <br>
 
 ---
@@ -73,21 +57,19 @@ Here are some ideas to get you started:
 
 <br>
 
-<!--
-### 📈 Customer Analytics Dashboard
-**Interactive BI dashboard for retail customer segmentation**
 
-*Processes 500K+ records daily, providing real-time insights for marketing teams.*
+### 🚲 [BikeStore Inventory Durability](https://github.com/AmirHSoukhteh/BikeSale-Inventory-Analysis-SQL)
+**SQL-based inventory management system to calculate product durability (days until stock depletion) for a bike retail business.**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
++ Modeled sales and inventory data for a bicycle retail chain (BikeSale) using CTEs in SQL Server Management Studio
++ Calculated Inventory Days on Hand / Inventory Turnover Rate to quantify how many days it takes for current inventory
+to sell through.
 
-[→ View Repository](#)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="70" height="40"/>
 
 <br>
 
+<!--
 ### 🏥 Healthcare Data Pipeline
 **ETL pipeline for processing medical records data**
 
