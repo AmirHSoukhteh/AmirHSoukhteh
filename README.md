@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div align="left">
 <p>
-  Amir Soukhteh is a Mathematics graduate with a strong passion for working with data and bring them to life. Fascinated by the intersection of mathematics and computer science, he continuously expands his knowledge through hands-on projects, open-source contributions, and continuous learning.
+  Amir Soukhteh is a Mathematics graduate with a strong passion for working with data and bring them to life. Fascinated by the intersection of mathematics and computer science, he continuously expands his knowledge through hands-on projects, and continuous learning.
 </p>
 
 <p>
