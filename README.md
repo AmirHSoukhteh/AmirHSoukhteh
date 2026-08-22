@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <h2>Hi there 👋, I'm Amir</h2>
-<p><b>Python Developer and Data Enthusiastic</b></p>
+<p><b>Data Analyst and Data Enthusiastic</b></p>
 <br>
 
 <div align="left">
