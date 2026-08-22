@@ -57,9 +57,12 @@ Here are some ideas to get you started:
 
 <br>
 
-
+<div align="center">
+  
 ### 🚲 [BikeStore Inventory Durability](https://github.com/AmirHSoukhteh/BikeSale-Inventory-Analysis-SQL)
 **SQL-based inventory management system to calculate product durability (days until stock depletion) for a bike retail business.**
+
+</div>
 
 + Modeled sales and inventory data for a bicycle retail chain (BikeSale) using CTEs in SQL Server Management Studio
 + Calculated Inventory Days on Hand / Inventory Turnover Rate to quantify how many days it takes for current inventory
