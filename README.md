@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ---
 <!-- ==================== DATA PROJECTS SECTION ==================== -->
 
+<!-- 
 <div align="center">
   <h2><a name="data-projects"></a>Data Projects</h2>
   <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
@@ -92,6 +93,9 @@ significant predictors of product sales.
 
 
 <br>
+
+-->
+
 <!--
 ### 📊 Financial Data Visualization
 **Real-time market data visualization platform**
